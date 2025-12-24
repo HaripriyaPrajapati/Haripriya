@@ -29,10 +29,8 @@ Performance Rating
 
 # Tools & Technologies Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
 Power BI (for interactive dashboards)
 Excel (initial data cleaning & exploration)
-SQL (for querying and KPI analysis)
 
 # Project Workflow
 
